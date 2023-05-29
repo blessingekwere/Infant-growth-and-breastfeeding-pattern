@@ -192,10 +192,12 @@ Below is the infant growth and breastfeeding pattern dashboard. Feel free to int
 Based on the insights derived from the analysis of the impact of breastfeeding patterns on height and weight, the following recommendations can be made for the infant and breastfeeding pattern dataset:
 
 * Height Development Recommendations
+
 Encourage exclusive breastfeeding: Although exclusive breastfeeding showed a slightly lower average height compared to other breastfeeding patterns, it provides essential nutrition for infants. Encouraging exclusive breastfeeding for the first 4-6 months of a baby's life can support healthy growth and development.
 Monitor height of non-breastfed babies: The analysis indicates that babies not breastfed had a significantly higher average height. Healthcare professionals should closely monitor the growth and development of non-breastfed babies to ensure they are receiving adequate nutrition and support their overall well-being.
 
 * Weight Development Recommendations
+
 Promote exclusive breastfeeding with water supplementation: Babies breastfed with water showed a slightly higher average weight compared to exclusive breastfed babies. Promoting exclusive breastfeeding while introducing small amounts of water as recommended by healthcare professionals can contribute to healthy weight gain during this age range.
 
 * Educate on the potential impacts of partial breastfeeding: Partial breastfed babies had a slightly lower average weight compared to both exclusive breastfed babies and babies breastfed with water. Educating parents about the potential impact of introducing non-breast milk components (formula or solid foods) alongside breastfeeding may help them make informed decisions regarding their baby's weight development
@@ -203,9 +205,11 @@ Promote exclusive breastfeeding with water supplementation: Babies breastfed wit
 * Provide support for non-breastfed babies: Babies not breastfed showed a lower average weight. Providing appropriate support and guidance to parents who choose not to breastfeed, such as ensuring access to quality formula feeding and monitoring weight gain, can help promote healthy growth and development.
 
 * Correlation between Height and Weight Recommendations
+
 Consider multiple factors: The analysis showed a weak positive correlation between height and weight in babies. It's important to consider multiple factors, such as genetics, overall nutrition, and individual growth patterns, when assessing height and weight development. A holistic approach that considers various aspects of a baby's health and well-being will provide a more comprehensive understanding.
 
-* Further analysis and research:
+* Further analysis and research
+
 Expand the dataset: To strengthen the recommendations and draw more robust conclusions, expanding the dataset with a larger sample size and diverse demographics would be valuable. This would allow for more accurate insights into the relationship between breastfeeding patterns and height and weight development in babies.
 Include additional variables: Considering additional variables such as socioeconomic factors, dietary habits, and individual health conditions can provide a more comprehensive understanding of the factors influencing height and weight development in infants.
 
