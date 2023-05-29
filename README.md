@@ -94,7 +94,7 @@ The line chart effectively demonstrates the growth pattern, with each point repr
 ###	Relationship between height and weight
 * The scatter plot visualizing the height and weight of babies reveals a correlation coefficient of 0.189388901. This coefficient suggests a weak positive correlation between height and weight. Although the correlation is positive, the coefficient value indicates that the relationship between height and weight is not particularly strong. It implies that while there may be some tendency for taller babies to have higher weights, the correlation is not significant enough to make definitive conclusions.
 
-![](https://github.com/blessingekwere/Infant-growth-and-breastfeeding-pattern/blob/main/Relationship%20between%20height%20and%20weight.png
+![](https://github.com/blessingekwere/Infant-growth-and-breastfeeding-pattern/blob/main/Relationship%20between%20height%20and%20weight.png)
 
 It is important to note that correlation does not imply causation, and other factors may contribute to the observed variations in height and weight. Further analysis and consideration of additional variables or factors would be beneficial to gain a more comprehensive understanding of the relationship between height and weight in babies.
 
@@ -144,7 +144,7 @@ The analysis of the impact of breastfeeding pattern on height, visualized throug
 *It's important to note that height is influenced by various factors, including genetics, overall nutrition, individual growth patterns, and environmental factors. Breastfeeding patterns alone may not solely determine the height of babies. Consideration of other variables, such as socioeconomic factors, dietary habits, and genetic predispositions, would provide a more comprehensive understanding of the relationship between breastfeeding patterns and height in babies.
 To gain a more comprehensive understanding of the relationship between breastfeeding patterns and height, it would be beneficial to analyze a larger sample size and consider additional factors such as duration of breastfeeding, overall nutrition, and other relevant variables that could impact height development in babies.*
 
-### -	Average height and weight by breastfeeding pattern for ages 1-3 month
+### Average height and weight by breastfeeding pattern for ages 1-3 month
 ![](https://github.com/blessingekwere/Infant-growth-and-breastfeeding-pattern/blob/main/Average%20weight%20and%20height%201-3%20months.png)
 #### Height Comparison
 
