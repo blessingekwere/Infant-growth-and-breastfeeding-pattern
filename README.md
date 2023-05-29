@@ -58,7 +58,7 @@ The analysis of infant growth and breastfeeding patterns using Power BI demonstr
 * Reporting and Dashboard Creation
 
 ## Data cleaning
-The dataset was not quite messy, hence there was just little cleaning that was to be carried out to ensure that the data is fit for further analysis. Some the steps taken during data cleaning and transformation were:
+The dataset was not quite messy, hence there was just little cleaning that was to be carried out to ensure that the data is fit for further analysis. Some of the steps taken during data cleaning and transformation were:
 
 * Formatting all the columns to their proper data type
 * Splitting the month column using space as a delimeter to ensure that I have a column with just the number of month as the age and then I renamed the new column as age(month) and then I removed the column that just had months.
