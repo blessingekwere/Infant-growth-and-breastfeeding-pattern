@@ -182,7 +182,7 @@ From the analysis of the impact of breastfeeding pattern on the height and weigh
 *It's important to note that these insights are based on the specific data provided for the 4-6 month age range. The analysis should be interpreted in the context of the given dataset and the limitations of the data. Other factors, such as genetics, overall nutrition, and individual growth rates, can also contribute to variations in height and weight. To draw more robust conclusions, it would be beneficial to analyze data across different age groups and consider additional variables like socioeconomic factors, dietary habits, and individual health conditions.*
 
 ### Dashboard
-Below is the infant growth and breastfeeding pattern dashboard. Feel free to interact with the dashboard [here](<iframe title="breastfeeding pattern" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2Q5Zjc5MWUtMWNjOS00NjUzLWFiZmYtNDVhNjFhNDA0NDJmIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+Below is the infant growth and breastfeeding pattern dashboard. Feel free to interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiY2Q5Zjc5MWUtMWNjOS00NjUzLWFiZmYtNDVhNjFhNDA0NDJmIiwidCI6IjMwMDM2MmQ4LTZkNmItNGY5ZC04YjQwLTUwZjhkNjkxNmVjZCJ9)
 
 
 ![](https://github.com/blessingekwere/Infant-growth-and-breastfeeding-pattern/blob/main/breastfeeding%20pattern_page-0001.jpg)
